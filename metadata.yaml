@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32504'
     url: http://www.gutenberg.org/2009/agents/32504
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27177#The-Lost-Ten-Tribes-and-1882
 gutenberg_issued: '2008-11-06'
 gutenberg_type: Text
 identifiers:
